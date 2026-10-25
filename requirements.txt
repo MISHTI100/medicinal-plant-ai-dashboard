@@ -1,0 +1,9 @@
+
+streamlit
+groq
+joblib
+numpy
+Pillow
+scikit-image
+scikit-learn
+gdown
